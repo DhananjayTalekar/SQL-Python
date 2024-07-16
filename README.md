@@ -10,15 +10,6 @@ This project focuses on analyzing real-world datasets using SQL queries and visu
 - **Data Visualization**: Visualize the results of SQL queries to understand data distributions, trends, and relationships.
 - **SQLite Magic**: Utilize SQLite Magic to execute SQL commands directly within Jupyter notebooks for an integrated analysis experience.
 
-## Datasets
-
-The project utilizes several real-world datasets. Ensure that you have these datasets available in the `data/` directory. The datasets used in this project include:
-
-1. **Dataset 1**: Description of the dataset.
-2. **Dataset 2**: Description of the dataset.
-
-*(Replace the above placeholder text with actual dataset descriptions and details.)*
-
 ## Getting Started
 
 To start working with this project, follow these steps:
